@@ -44,13 +44,13 @@ try{
 
 if (setup.regular_board) {
     colour = {
-        0: colours.b,
-        1: colours.w
+        0: colours.w,
+        1: colours.b
     }
 } else {
     colour = {
-        0: colours.w,
-        1: colours.b
+        0: colours.b,
+        1: colours.w
     }
 }
 
