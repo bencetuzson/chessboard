@@ -7,7 +7,7 @@ const setup = {
     column: 8,
     edge: 10,
     border: true,
-    regular_board: false
+    regular_board: true
 }
 
 let windowSize = {
